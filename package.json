@@ -1,8 +1,8 @@
 {
-    "name": "od-cocoon",
-    "version": "3.0.0",
+    "name": "od-watcher",
+    "version": "1.0.0",
     "description": "",
-    "main": "framework.min.js",
+    "main": "wrist.js",
     "author": "",
     "license": "MIT",
     "scripts": {},
